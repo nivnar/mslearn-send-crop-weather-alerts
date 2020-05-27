@@ -4,7 +4,7 @@ This is the code used in the Learn module "Send Crop Weather Alerts"
 
 ## Description
 
-This app allows subscribing to teperature alert for a given location (specified in free form text) if a defined minimum or maximum temperature are exceeded. Twilio is used to subscribe to alerts via SMS and receive alerts via SMS.
+This app allows subscribing to temperature alert for a given location (specified in free form text) if a defined minimum or maximum temperature are exceeded. Twilio is used to subscribe to alerts via SMS and receive alerts via SMS.
 
 ## How to Deploy
 
